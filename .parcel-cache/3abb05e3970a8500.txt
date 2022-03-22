@@ -1,0 +1,9 @@
+8
+47E:\test_file\test_111\dist\test_111.3464ddca.js132923863262877382 0
+48E:\test_file\test_111\dist\index.8067b1f7.js.map132923872262607645 0
+26E:\test_file\test_111\dist132923872262846968 1
+37E:\test_file\test_111\dist\index.html132923872262817035 0
+28E:\test_file\test_111\dom.js132923872917798097 0
+32E:\test_file\test_111\index.html132923872256673491 0
+51E:\test_file\test_111\dist\test_111.3464ddca.js.map132923863262897319 0
+44E:\test_file\test_111\dist\index.8067b1f7.js132923872262607645 0
